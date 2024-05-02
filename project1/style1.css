@@ -1,0 +1,123 @@
+*{
+    margin:0;
+    padding: 0;
+   box-sizing: border-box;
+}
+.container{
+    background:skyblue;
+    border: 10px solid dimgray;
+}
+.content{
+    margin: auto;
+    max-width: 900px;
+}
+.top-section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.top-section h1{
+    font-size: 50px;
+     font-weight:bold;
+     color:darkslateblue;     
+}
+.image-container,img{
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px lightskyblue;
+    border: 6px solid black;
+    
+}
+.top-section h4{
+    font-size: 20px;
+    text-align: start;
+}
+ .about-section p1, h2{
+    font-size: 30px;
+    padding: 20px;  
+ }
+ 
+ .biography-section ul{
+    letter-spacing: 1.5px;
+ }
+.about-section h2{
+    font-size:50px;
+    
+     
+}   
+.top-section p{
+    font-size: 20px ;
+    line-height: 30px ;
+    letter-spacing: 1.4px;
+    text-align: justify;
+}
+footer{
+    margin:30px 0;
+}
+footer p{
+    text-align: end;
+
+}
+.biography-section,h3{
+    font-size: 40px;
+}
+.biography-section,li p{
+  font-size: 25px;
+  padding:10px;
+}
+.biography-section ul{
+    margin-left: 50px;
+}
+   
+ .about-sectionp1:hover::first-line{
+  color: darkgreen;
+}
+p1,p{
+    padding: 25px;
+}
+.biography-section h3,li{
+    padding: 20px;
+    
+}
+h4{
+    position: absolute;
+    left: 496px;
+    top: 244px;
+}
+h1 {
+    position: absolute;
+    left: 496px;
+    top: 185px;
+}
+.about-section p1:hover{
+    color: blueviolet;    
+}
+.about-section h2:hover{
+    color:darkgreen;
+}
+li,p{
+    font: size 40px;
+}
+li{
+    font-size: 20px;
+} 
+.about-section p{
+    font-size: 20px;
+}
+footer p{
+    font-size: 20px;
+
+}
+
+
+
+
+    
+
+
+    
+    
+
+ 
+
+ 
